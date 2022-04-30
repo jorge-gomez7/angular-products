@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "nombre": "Televisor Samsung 55\"",
+      "categoria": "Electronic",
+      "fecha": "2022-04-20T06:00:00.000Z",
+      "frescura": "Nuevo",
+      "precio": 5000,
+      "comentario": "Para Liquidación",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
